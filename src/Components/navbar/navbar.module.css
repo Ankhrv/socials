@@ -1,0 +1,31 @@
+  /* столбик профиль сообщения новости музыка настройки */
+  .nav {
+    grid-area: n;
+    /* background-color: rgb(34, 49, 59); */
+    background-color: rgb(32, 39, 40);
+    margin: 5px;
+    
+  }
+  /* тэг А столбик профиль сообщения новости музыка настройки */
+  /* .aa, .itm {
+  display: flex;
+  text-decoration: none;
+  padding: 15px 5px 5px 10px;
+  color: azure;
+  font-size: large;
+  font-weight: 300;
+  font-family: Arial, Helvetica, sans-serif;
+
+
+  } */
+  /* тэг А (при наведении) столбик профиль сообщения новости музыка настройки */
+  /* .aa:hover{
+    font-weight: 600;
+   color: rgb(34, 49, 59); 
+  transition: 0.1s;
+   border: 0px solid rgb(254, 254, 254); 
+  background-color: whitesmoke;
+  text-decoration: none;
+} */
+
+

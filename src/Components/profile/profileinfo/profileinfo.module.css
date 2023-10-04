@@ -1,0 +1,16 @@
+  /* данные профиля */
+  /* .content {
+    grid-area: c;
+  background-color: rgb(186, 186, 218);
+  margin: 5px;
+  } */
+  /* картинка общая над профилем */
+  .block{
+padding: 10px;
+  }
+
+  .img {
+    width: 100%;
+    height: 300px;
+  
+  }

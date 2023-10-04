@@ -1,0 +1,24 @@
+.postsblock{
+    padding-left: 20px;
+}
+.posts{
+    margin-top: 10px;
+    
+}
+.texta {
+   display: flex;
+   justify-content:space-between;
+    
+    padding-left: 50px;
+}
+.texta textarea{
+    display: flex;
+    justify-content: center;
+     width: 75%;
+     height: 30px;
+     font-size: large;
+     
+ }
+ .but {
+    padding-left: 50px;
+ }

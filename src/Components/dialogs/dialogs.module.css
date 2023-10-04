@@ -1,0 +1,36 @@
+  /* данные профиля */
+  /* .content {
+    grid-area: c;
+  background-color: rgb(186, 186, 218);
+  margin: 5px;
+  
+  } */
+
+  .dialogs{
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+  }
+
+  .dialogsitems{
+    padding: 10px;
+
+  }
+  .dialogsitems .active{
+    color:green;
+
+  }
+
+  .dialog{
+  
+
+  }
+
+  .messages{
+    padding: 10px;
+
+  }
+
+  .message{
+  
+
+  }
